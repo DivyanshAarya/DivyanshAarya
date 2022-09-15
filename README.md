@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DivyanshAarya
 - 👀 I’m interested in Data Science, Data Analytics and Machine Learning
-- 🌱 I’m currently learning Computer Visiona and NLP
+- 🌱 I’m currently learning Computer Vision and NLP
 - 💞️ I’m looking to collaborate on Data Engineering Roles that are creating a significant change world and solving problems which couldn't be solved before.
 - 📫 How to reach me at E-Mail: divyanshkumarofficial@gmail.com
